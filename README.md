@@ -91,7 +91,7 @@ show_image_with_prediction(test_image_path, prediction, confidence, class_names)
 
 - Modelin içeriğindeki gerekli modülleri kurmak için;
 - ```bash
-    pip install -r requirements.txt
+  pip install -r requirements.txt
     ```
 - Örnek kullanımla modelin ve veri setinin yolunu yerleştirin,
 - Ve dosyayı çalıştırın.
