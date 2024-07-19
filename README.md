@@ -219,7 +219,7 @@ show_image_with_prediction(test_image_path, prediction, confidence, class_names)
 
 - To install the necessary modeules in the model;
 - ```bash 
-    pip install -r requirements.txt
+  pip install -r requirements.txt
     ```
 - Place the path of the model in the example uses.
 - And run the file.
